@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaycee
+- 👋 
 -
 <!---
 ImJaycee/ImJaycee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
